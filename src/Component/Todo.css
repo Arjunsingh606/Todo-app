@@ -1,0 +1,57 @@
+.header-main{
+   
+    height: 500px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.heading{
+    font-size: 40px;
+    color: red;
+}
+.input{
+    width: 65%;
+    /* height: 35px; */
+    border: none;
+    border-radius: 5px;
+    font-size: 21px;
+    color: black;
+    padding: 8px;
+}
+.input-btn{
+    width: 100px;
+    margin-left: 10px;
+    padding: 10px;
+    background-color: darkorange;
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+}
+.para-list{
+    font-size: 30px;
+    font-weight: 400;
+    color: goldenrod;
+}
+.paragraph-todo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.details-todo{
+    background-color: brown;
+    padding: 10px;
+    border: none;
+    border-radius: 2px;
+}
+.btn-todo{
+    width: 100px;
+    margin-left: 5px;
+    padding: 10px;
+    background-color: darkorange;
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+}
