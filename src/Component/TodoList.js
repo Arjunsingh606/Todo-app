@@ -34,6 +34,7 @@ const removeHandle = (i)=>{
   return (
     <>
     <div className="header-main">
+         <h2>react todo App</h2>
          <h2 className='heading'>Todo App</h2>
          <input className='input' type='text' placeholder='Write Here' value={activity} onChange={inputHandle}/>
          <button onClick={btnHandle} className='input-btn'>Add</button>
